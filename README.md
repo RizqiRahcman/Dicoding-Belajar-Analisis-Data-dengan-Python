@@ -23,3 +23,9 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Streamlit link
+
+```
+https://sc2mxitaedpsgb9v9cubed.streamlit.app/
+```
